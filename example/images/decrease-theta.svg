@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="107.80202mm"
+   height="70.215836mm"
+   viewBox="0 0 107.80202 70.215836"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="decrease-theta.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1474186"
+     inkscape:cx="53.162813"
+     inkscape:cy="159.9242"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.454967,-46.290375)">
+    <rect
+       style="fill:none;stroke:#000600;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect846"
+       width="106.30202"
+       height="68.715836"
+       x="33.204967"
+       y="47.040375"
+       ry="6.5220852" />
+    <g
+       id="g934"
+       transform="translate(7.3788822,-16.141305)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         style="fill:none;stroke:#000600;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1252"
+         cx="53.669838"
+         cy="99.557259"
+         rx="21.271935"
+         ry="8.3588896" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="37.551441"
+         y="102.27365"
+         id="text3345"><tspan
+           sodipodi:role="line"
+           id="tspan3343"
+           style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           x="37.551441"
+           y="102.27365">クラスタ1</tspan></text>
+    </g>
+    <g
+       id="g939"
+       transform="translate(0,6.687112)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         style="fill:none;stroke:#000600;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1254"
+         cx="108.60791"
+         cy="61.221661"
+         rx="24.211958"
+         ry="10.261258" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="92.436592"
+         y="63.938053"
+         id="text3345-3"><tspan
+           sodipodi:role="line"
+           id="tspan3343-6"
+           style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           x="92.436592"
+           y="63.938053">クラスタ2</tspan></text>
+    </g>
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5165"
+       cx="84.433617"
+       cy="77.054741"
+       r="3.3435559" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="88.930122"
+       y="85.035049"
+       id="text6423"><tspan
+         sodipodi:role="line"
+         id="tspan6421"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="88.930122"
+         y="85.035049">平均値</tspan></text>
+    <circle
+       style="fill:#0000fd;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5165-6"
+       cx="84.690842"
+       cy="67.908775"
+       r="3.3435559" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#0000fc;fill-opacity:1;stroke-width:0.264583"
+       x="52.754112"
+       y="70.586357"
+       id="text6423-7"><tspan
+         sodipodi:role="line"
+         id="tspan6421-5"
+         style="fill:#0000fc;fill-opacity:1;stroke-width:0.264583"
+         x="52.754112"
+         y="70.586357">中央値</tspan></text>
+  </g>
+</svg>
