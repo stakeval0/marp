@@ -1,0 +1,87 @@
+{
+	"column and image": {
+		"prefix": "colimg",
+		"body": [
+			"<div class=colimg>",
+			"<div>",
+			"",
+			"${0:${TM_SELECTED_TEXT}}",
+			"",
+			"</div>",
+			"<div style='width:fit-content;text-align:center;text-align:center;' >",
+			"<img src='${1:images/}' />",
+			"</div>",
+			"</div>"
+		]
+	},
+	"flex": {
+		"prefix": "flex",
+		"body": [
+			"<div class=flex>",
+			"<div>",
+			"",
+			"$0",
+			"",
+			"</div>",
+			"<div>",
+			"",
+			"",
+			"",
+			"</div>",
+			"</div>"
+		]
+	},
+	"columns": {
+		"prefix": "columns",
+		"body": [
+			"<div class=columns>",
+			"<div>",
+			"",
+			"#### $0",
+			"",
+			"</div>",
+			"<div>",
+			"",
+			"#### ",
+			"",
+			"</div>",
+			"</div>"
+		]
+	},
+	"parallel": {
+		"prefix": "parallel",
+		"body": [
+			"<div class=parallel>",
+			"<div>",
+			"",
+			"$0",
+			"",
+			"</div>",
+			"</div>"
+		]
+	},
+	"element": {
+		"prefix": "element",
+		"body": "<${1:div}>${0:${TM_SELECTED_TEXT}}</${1:div}>"
+	},
+	"element_with_style": {
+		"prefix": "ews",
+		"body": "<${1:div} style='$2'>${0:${TM_SELECTED_TEXT}}</${1:div}>"
+	},
+	"color": {
+		"prefix": "color",
+		"body": "<${1:span} style='color:${2:red}'>${0:${TM_SELECTED_TEXT}}</${1:span}>"
+	},
+	"img": {
+		"prefix": ["img", "image"],
+		"body": "<img src='${0:images/}' style='width:100%;margin: 0 auto;' />"
+	},
+	"css": {
+		"prefix": ["css", "style"],
+		"body": [
+			"<style scoped>",
+			"  $0",
+			"</style>"
+		]
+	}
+}
