@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: 'beam'
+theme: 'beamer'
 author: stakeval0
 paginate: true
 math: 'katex'
