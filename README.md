@@ -3,6 +3,8 @@
 
 スライドを作る上で便利な複数のクラスを追加実装しています。
 
+raw link: https://raw.githubusercontent.com/stakeval0/marp-style/main/beamer.css
+
 ## クラス
 
 想定している使い方は[`markdown.json`](./markdown.json)を参照。
@@ -32,7 +34,7 @@
 .
 ├── .vscode <-copied!
 ├── slide.md
-├── marp-style
+└── marp-style
     ├── .vscode <-original
     └── beamer.css
 ```
