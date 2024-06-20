@@ -254,6 +254,18 @@ li.arrow p {
   margin: 0;
 }
 
+li.custom::marker {
+  content: var(--str);
+}
+
+span.arrow::after {
+  content: "➡"
+}
+
+span.noemj::after {
+  content: var(--str)
+}
+
 /* end classes implementation */
 
 li li {
@@ -267,6 +279,10 @@ li li li li {
 img.text {
   width: 1.5em;
   vertical-align: middle;
+}
+
+table {
+  margin: 0 auto;
 }
 
 .round {
