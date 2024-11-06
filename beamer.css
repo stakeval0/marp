@@ -259,11 +259,17 @@ li.custom::marker {
 }
 
 span.arrow::after {
-  content: "➡"
+  content: "➡ ";
 }
 
 span.noemj::after {
-  content: var(--str)
+  content: var(--str);
+}
+
+span.tip {
+  border: solid black;
+  padding: 0.15em;
+  border-radius: 0.5em;
 }
 
 /* end classes implementation */
@@ -274,6 +280,18 @@ li li {
 
 li li li li {
   font-size: 1em;
+}
+
+ol > li {
+  list-style-type: decimal;
+}
+
+ol ol > li {
+  list-style-type: lower-roman;
+}
+
+ol ol ol > li {
+  list-style-type: lower-alpha;
 }
 
 img.text {
