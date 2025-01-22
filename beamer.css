@@ -145,7 +145,7 @@ div.columns > div {
   border: solid var(--color);
   font-size:1em;
   font-weight:normal;
-  height:100%;
+  height: auto;
   text-align:left;
   /* align-items:center; */
   /* justify-content:center; */
